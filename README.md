@@ -15,6 +15,3 @@ This project combines **Market Basket Analysis** and **Image Classification** fo
 - TensorFlow / Keras
 - Matplotlib & Seaborn
 
-✨ Author
-
-Joshitha
